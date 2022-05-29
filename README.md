@@ -11,7 +11,7 @@ The list will be separated in three categories, things that I use every day (pri
  * ## Principal
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=40 height=40 alt="C" title="C"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=40 height=40 alt="C++" title="C++"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=40 height=40 alt="C++" title="C++"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=40 height=40 alt="CSS" title="CSS"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width=40 height=40 alt="C#" title="C#"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width=40 height=40 alt="Express" title="Express"/>
