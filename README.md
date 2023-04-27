@@ -73,14 +73,14 @@ The list will be separated in three categories, things that I use every day (pri
 
 <h1 align="center"> F.A.Q. </h1>
 
-**How old are you?** 20 years old. \
+**How old are you?** 21 years old. \
 **What OS you use?** Windows 11 and Manjaro. \
 **Are you searching any job?** Yes. \
 **What is your level of English?** Between B2 and C1. \
 **Do you really know about that technologies?** Yep, I learned by myself a lot of things. \
 **At what age you started to programming?** When I was around 8 or 10 years old. \
 **Do you want to collaborate in X project** Probably. \
-**Are you studying at university?** Yep. \
+**Are you studying at university?** Yep, but I'm in a pause because administrative and personal things. \
 **Do you have LinkedIn?** [Of course.](https://www.linkedin.com/in/santiago-farall-moncecchi/) \
 **Why your Github is so empty** I have some private projects with sensible information and I used Gitlab until a couple of years. Probably in a couple of months I start to open some projects. \
 **¿Por qué no hiciste esto en Español?** Por el alcance, próximamente va a haber versión en Español.
