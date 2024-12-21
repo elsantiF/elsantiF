@@ -1,9 +1,9 @@
 
 Hi, I'm **Santiago** \
-A Software Developer from Uruguay 🇺🇾 \
+A Software Developer from Uruguay 🇺🇾
 
 Currently working on [Banshee](https://github.com/elsantiF/Banshee), my own game engine. \
-Also I'm working on [Orbis](https://github.com/elsantiF/orbis)'s definition, a new programming language. \
+Also I'm working on [Orbis](https://github.com/elsantiF/orbis)'s definition, a new programming language.
 
 ---
 
@@ -48,6 +48,6 @@ If you don't want to contribute, you can always give me a star ⭐
 
 ---
 
-!["Views"](https://komarev.com/ghpvc/?username=elsantiF&color=red)
-!["Stats"](https://github-readme-stats.vercel.app/api?username=elsantiF&show_icons=true&theme=dark)
+!["Views"](https://komarev.com/ghpvc/?username=elsantiF&color=red) \
+!["Stats"](https://github-readme-stats.vercel.app/api?username=elsantiF&show_icons=true&theme=dark) \
 !["Top Langs"](https://github-readme-stats.vercel.app/api/top-langs/?username=elsantiF&layout=compact&theme=dark)
